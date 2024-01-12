@@ -26,8 +26,8 @@ Création d'une slide de technologie a utiliser.
 ## validateur
  - Analyse : yasmine daifane
 
-## Liens vers les livrables -->
-[slide d'analyse technique](https://docs.google.com/presentation/d/1cjsXUDyLXryg4mum984VNz9lcYKOXzsYsSrBkCJBx_s/edit?usp=sharing)
+## Liens vers les livrables 
+[slide d'analyse technique](https://docs.google.com/presentation/d/1mg_1Rf45fqG8DDMLwWhnc4ewEcAa6g2LEFciTKvmc0U/edit?usp=sharing)
 
  ___
  **version: 1**
