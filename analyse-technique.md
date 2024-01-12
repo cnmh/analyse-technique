@@ -1,7 +1,7 @@
 # Analyse technique
 
 ## Travail à faire
- - création d'une slide de technologie a utiliser
+Création d'une slide de technologie a utiliser.
 
 ## Liste des livrables 
  - Fichier Markdown (analyse-technique.md)
@@ -26,8 +26,8 @@
 ## validateur
  - Analyse : yasmine daifane
 
-## Liens vers les livrables
- [slide d'analyse technique](https://docs.google.com/presentation/d/1cjsXUDyLXryg4mum984VNz9lcYKOXzsYsSrBkCJBx_s/edit?usp=sharing)
+<!-- ## Liens vers les livrables -->
+ <!-- [slide d'analyse technique](https://docs.google.com/presentation/d/1cjsXUDyLXryg4mum984VNz9lcYKOXzsYsSrBkCJBx_s/edit?usp=sharing) -->
 
  ___
  **version: 1**
