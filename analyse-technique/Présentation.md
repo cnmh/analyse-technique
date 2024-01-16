@@ -65,6 +65,6 @@
 
 ## Références
 
-[Analyse-technique](<../../../Users/Amine Lamchatab/Downloads/Analyse technique .pptx>)
+[Analyse-technique](./Analyse%20technique%20.pptx)
 
 ## conclusion
