@@ -40,7 +40,7 @@
 
 ## MySQL
 
-![MySQL](./images/MySQL.png)
+![MySQL](./images/mysql.png)
 
 - un serveur de bases de données relationnelles
 
